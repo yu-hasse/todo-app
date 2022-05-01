@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "content": "JSON ServerのAPIを作成する",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Chakra UIをインストールする",
+      "done": false
+    },
+    {
+      "content": "todo-appを作成する",
+      "id": "01G1WGSSJR7RT6790D53SZ39BR",
+      "done": true
+    },
+    {
+      "content": "todo-appにテスト投稿してみる",
+      "id": "01G1WGTFK94RYPBF0FS1RQTXGA",
+      "done": false
+    },
+    {
+      "content": "ああああ",
+      "id": "01G1WJTE6BSH5ABB7BTGMFJG7X",
+      "done": false
+    }
+  ]
+}
